@@ -1,3 +1,4 @@
+<?php
 //Modify marker based on taxonomy
 add_filter(
 	'wp_grid_builder_map/geojson',
